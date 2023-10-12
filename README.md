@@ -1,3 +1,6 @@
+I like to drink boba!!
+Matcha latte is my favorite!
+
 # my_repo
 demonstration repository
 
